@@ -1,0 +1,259 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-D8oIzBkq.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/images/android-v2rayng-add-new-config.png": {
+    "file": "assets/android-v2rayng-add-new-config-CgIFGrIK.png",
+    "src": "resources/images/android-v2rayng-add-new-config.png"
+  },
+  "resources/images/android-v2rayng-app.png": {
+    "file": "assets/android-v2rayng-app-CmYOPDrg.png",
+    "src": "resources/images/android-v2rayng-app.png"
+  },
+  "resources/images/android-v2rayng-confirm-setup-vpn-connection.png": {
+    "file": "assets/android-v2rayng-confirm-setup-vpn-connection-C80qEcqL.png",
+    "src": "resources/images/android-v2rayng-confirm-setup-vpn-connection.png"
+  },
+  "resources/images/android-v2rayng-connect.png": {
+    "file": "assets/android-v2rayng-connect-CXSBIiJh.png",
+    "src": "resources/images/android-v2rayng-connect.png"
+  },
+  "resources/images/android-v2rayng-import-config-from-clipboard.png": {
+    "file": "assets/android-v2rayng-import-config-from-clipboard-CrHOm-T-.png",
+    "src": "resources/images/android-v2rayng-import-config-from-clipboard.png"
+  },
+  "resources/images/android.png": {
+    "file": "assets/android-sqAcyCet.png",
+    "src": "resources/images/android.png"
+  },
+  "resources/images/avalvpn-social.png": {
+    "file": "assets/avalvpn-social-CKeRE2wF.png",
+    "src": "resources/images/avalvpn-social.png"
+  },
+  "resources/images/banner-bg.png": {
+    "file": "assets/banner-bg-DPqW4sXi.png",
+    "src": "resources/images/banner-bg.png"
+  },
+  "resources/images/banner-man-1.png": {
+    "file": "assets/banner-man-1-dEm79_QE.png",
+    "src": "resources/images/banner-man-1.png"
+  },
+  "resources/images/banner-man-2.png": {
+    "file": "assets/banner-man-2-OWznARj-.png",
+    "src": "resources/images/banner-man-2.png"
+  },
+  "resources/images/banner-man-3.png": {
+    "file": "assets/banner-man-3-Ce7lJV_G.png",
+    "src": "resources/images/banner-man-3.png"
+  },
+  "resources/images/banner-man-4.png": {
+    "file": "assets/banner-man-4-BIjMtY1S.png",
+    "src": "resources/images/banner-man-4.png"
+  },
+  "resources/images/banner-shape.png": {
+    "file": "assets/banner-shape-BPxHh_UJ.png",
+    "src": "resources/images/banner-shape.png"
+  },
+  "resources/images/banner.png": {
+    "file": "assets/banner-D9gr957l.png",
+    "src": "resources/images/banner.png"
+  },
+  "resources/images/base-pattern.png": {
+    "file": "assets/base-pattern-6Eo07ag-.png",
+    "src": "resources/images/base-pattern.png"
+  },
+  "resources/images/blue-texture.png": {
+    "file": "assets/blue-texture-DzL3RZdv.png",
+    "src": "resources/images/blue-texture.png"
+  },
+  "resources/images/checkmark.png": {
+    "file": "assets/checkmark-CjSoow0h.png",
+    "src": "resources/images/checkmark.png"
+  },
+  "resources/images/encryption.png": {
+    "file": "assets/encryption-CUpvB1ea.png",
+    "src": "resources/images/encryption.png"
+  },
+  "resources/images/footer-pattern.png": {
+    "file": "assets/footer-pattern-BpwAmZC3.png",
+    "src": "resources/images/footer-pattern.png"
+  },
+  "resources/images/game-console.png": {
+    "file": "assets/game-console-bKKbtg_B.png",
+    "src": "resources/images/game-console.png"
+  },
+  "resources/images/iphone-npv-tunnel-add-configuration.png": {
+    "file": "assets/iphone-npv-tunnel-add-configuration-CyEAGRKZ.png",
+    "src": "resources/images/iphone-npv-tunnel-add-configuration.png"
+  },
+  "resources/images/iphone-npv-tunnel-allow-configuration.png": {
+    "file": "assets/iphone-npv-tunnel-allow-configuration-ZiptufPx.png",
+    "src": "resources/images/iphone-npv-tunnel-allow-configuration.png"
+  },
+  "resources/images/iphone-npv-tunnel-app.png": {
+    "file": "assets/iphone-npv-tunnel-app-NS7Jst2r.png",
+    "src": "resources/images/iphone-npv-tunnel-app.png"
+  },
+  "resources/images/iphone-npv-tunnel-configs-import-menu.png": {
+    "file": "assets/iphone-npv-tunnel-configs-import-menu-D4yLj-7h.png",
+    "src": "resources/images/iphone-npv-tunnel-configs-import-menu.png"
+  },
+  "resources/images/iphone-npv-tunnel-configs-import.png": {
+    "file": "assets/iphone-npv-tunnel-configs-import-BEiPSI1s.png",
+    "src": "resources/images/iphone-npv-tunnel-configs-import.png"
+  },
+  "resources/images/iphone-npv-tunnel-configs-select.png": {
+    "file": "assets/iphone-npv-tunnel-configs-select-BHty50F6.png",
+    "src": "resources/images/iphone-npv-tunnel-configs-select.png"
+  },
+  "resources/images/iphone-npv-tunnel-connect.png": {
+    "file": "assets/iphone-npv-tunnel-connect-BuNcK7OS.png",
+    "src": "resources/images/iphone-npv-tunnel-connect.png"
+  },
+  "resources/images/iphone-npv-tunnel-navigation-configs.png": {
+    "file": "assets/iphone-npv-tunnel-navigation-configs-CJjpsH2l.png",
+    "src": "resources/images/iphone-npv-tunnel-navigation-configs.png"
+  },
+  "resources/images/iphone-npv-tunnel-navigation-home.png": {
+    "file": "assets/iphone-npv-tunnel-navigation-home-BtAJElSa.png",
+    "src": "resources/images/iphone-npv-tunnel-navigation-home.png"
+  },
+  "resources/images/iphone-npv-tunnel-policy-accept.png": {
+    "file": "assets/iphone-npv-tunnel-policy-accept-BuOxNp7n.png",
+    "src": "resources/images/iphone-npv-tunnel-policy-accept.png"
+  },
+  "resources/images/iphone.png": {
+    "file": "assets/iphone-CiOxjdEr.png",
+    "src": "resources/images/iphone.png"
+  },
+  "resources/images/laptop-multimedia.png": {
+    "file": "assets/laptop-multimedia-BOj3dvFm.png",
+    "src": "resources/images/laptop-multimedia.png"
+  },
+  "resources/images/laptop-wifi.png": {
+    "file": "assets/laptop-wifi-BehRBb07.png",
+    "src": "resources/images/laptop-wifi.png"
+  },
+  "resources/images/light-texture.png": {
+    "file": "assets/light-texture-BiAwiZIn.png",
+    "src": "resources/images/light-texture.png"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/logo-DLhvBxl6.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/images/mac-v2box-allow-add-vpn-configurations.png": {
+    "file": "assets/mac-v2box-allow-add-vpn-configurations-BkCkMG2V.png",
+    "src": "resources/images/mac-v2box-allow-add-vpn-configurations.png"
+  },
+  "resources/images/mac-v2box-config-add-button.png": {
+    "file": "assets/mac-v2box-config-add-button-qw0dlh1H.png",
+    "src": "resources/images/mac-v2box-config-add-button.png"
+  },
+  "resources/images/mac-v2box-config-import-v2ray.png": {
+    "file": "assets/mac-v2box-config-import-v2ray-C_NtlaY_.png",
+    "src": "resources/images/mac-v2box-config-import-v2ray.png"
+  },
+  "resources/images/mac-v2box-config-select-v2ray.png": {
+    "file": "assets/mac-v2box-config-select-v2ray-Un9Z8_F7.png",
+    "src": "resources/images/mac-v2box-config-select-v2ray.png"
+  },
+  "resources/images/mac-v2box-connect.png": {
+    "file": "assets/mac-v2box-connect-Cf5SM4Tg.png",
+    "src": "resources/images/mac-v2box-connect.png"
+  },
+  "resources/images/mac-v2box-home.png": {
+    "file": "assets/mac-v2box-home-D6mrM0Pi.png",
+    "src": "resources/images/mac-v2box-home.png"
+  },
+  "resources/images/mac-v2box-navigation-select-config.png": {
+    "file": "assets/mac-v2box-navigation-select-config-53--4eE4.png",
+    "src": "resources/images/mac-v2box-navigation-select-config.png"
+  },
+  "resources/images/mac-v2box-navigation-select-home.png": {
+    "file": "assets/mac-v2box-navigation-select-home-BiGBBYUd.png",
+    "src": "resources/images/mac-v2box-navigation-select-home.png"
+  },
+  "resources/images/mac.png": {
+    "file": "assets/mac-Dd5nwBrI.png",
+    "src": "resources/images/mac.png"
+  },
+  "resources/images/operation-system.png": {
+    "file": "assets/operation-system-DeU43p-U.png",
+    "src": "resources/images/operation-system.png"
+  },
+  "resources/images/page-head-texture.png": {
+    "file": "assets/page-head-texture-B7ZUP4Bt.png",
+    "src": "resources/images/page-head-texture.png"
+  },
+  "resources/images/playstation.png": {
+    "file": "assets/playstation-D4qfPh1R.png",
+    "src": "resources/images/playstation.png"
+  },
+  "resources/images/plus-square-pattern.png": {
+    "file": "assets/plus-square-pattern-DZTP25d-.png",
+    "src": "resources/images/plus-square-pattern.png"
+  },
+  "resources/images/shield.png": {
+    "file": "assets/shield-BcLJNm1W.png",
+    "src": "resources/images/shield.png"
+  },
+  "resources/images/speed-meter.png": {
+    "file": "assets/speed-meter-DMFO0xUH.png",
+    "src": "resources/images/speed-meter.png"
+  },
+  "resources/images/telegram.png": {
+    "file": "assets/telegram-SctnQidW.png",
+    "src": "resources/images/telegram.png"
+  },
+  "resources/images/windows-v2rayn-change-language.png": {
+    "file": "assets/windows-v2rayn-change-language-D5GBdHCv.png",
+    "src": "resources/images/windows-v2rayn-change-language.png"
+  },
+  "resources/images/windows-v2rayn-enable-tun.png": {
+    "file": "assets/windows-v2rayn-enable-tun-BbH7c3WD.png",
+    "src": "resources/images/windows-v2rayn-enable-tun.png"
+  },
+  "resources/images/windows-v2rayn-exit.png": {
+    "file": "assets/windows-v2rayn-exit-Bp_59oFH.png",
+    "src": "resources/images/windows-v2rayn-exit.png"
+  },
+  "resources/images/windows-v2rayn-extract.png": {
+    "file": "assets/windows-v2rayn-extract-DvO7fCHF.png",
+    "src": "resources/images/windows-v2rayn-extract.png"
+  },
+  "resources/images/windows-v2rayn-import-bulk-url.png": {
+    "file": "assets/windows-v2rayn-import-bulk-url-CrVHcn5y.png",
+    "src": "resources/images/windows-v2rayn-import-bulk-url.png"
+  },
+  "resources/images/windows-v2rayn-open.png": {
+    "file": "assets/windows-v2rayn-open-DcShFlje.png",
+    "src": "resources/images/windows-v2rayn-open.png"
+  },
+  "resources/images/windows-v2rayn-run-as-administrator.png": {
+    "file": "assets/windows-v2rayn-run-as-administrator-H39re9KI.png",
+    "src": "resources/images/windows-v2rayn-run-as-administrator.png"
+  },
+  "resources/images/windows.png": {
+    "file": "assets/windows-Btmlw2p2.png",
+    "src": "resources/images/windows.png"
+  },
+  "resources/images/xbox.png": {
+    "file": "assets/xbox-Dch8gxm-.png",
+    "src": "resources/images/xbox.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CgTxAPyr.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/crisp.js": {
+    "file": "assets/crisp-CweHXdMl.js",
+    "name": "crisp",
+    "src": "resources/js/crisp.js",
+    "isEntry": true
+  }
+}
